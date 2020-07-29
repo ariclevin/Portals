@@ -1,0 +1,14 @@
+    #processingMsg {
+        width: 150px;
+        text-align: center;
+        padding: 6px 10px;
+        z-index: 9999;
+        top: 0;
+        left: 40%;
+        position: fixed;
+        -webkit-border-radius: 0 0 2px 2px;
+        border-radius: 0 0 2px 2px;
+        -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        display: none;
+    }
